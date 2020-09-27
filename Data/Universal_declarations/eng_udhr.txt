@@ -1,4 +1,4 @@
-This HTML version prepared by the UDHR in Unicode project, http://www.unicode.org/udhr.
+This HTML version prepared by the UDHR in Unicode project, http://www.unicode.org/udhr
 
 Universal Declaration of Human Rights
 Preamble
